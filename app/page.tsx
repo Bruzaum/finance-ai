@@ -3,7 +3,7 @@ import { Button } from "./_components/ui/button";
 
 export default function Home() {
   return (
-    <div className="flex items-center justify-center h-screen">
+    <div className="flex items-center justify-center h-screen dark">
       <Button>Teste Botao</Button>
     </div>
   );
